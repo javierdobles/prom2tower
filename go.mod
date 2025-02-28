@@ -3,7 +3,7 @@ module github.com/pja237/prom2tower
 go 1.17
 
 require (
-	github.com/prometheus/alertmanager v0.24.0
+	github.com/prometheus/alertmanager v0.25.1
 	gopkg.in/yaml.v2 v2.4.0
 )
 
@@ -20,5 +20,5 @@ require (
 	github.com/shurcooL/httpfs v0.0.0-20190707220628-8d4bc4ba7749 // indirect
 	github.com/shurcooL/vfsgen v0.0.0-20200824052919-0d455de96546 // indirect
 	golang.org/x/sys v0.0.0-20220114195835-da31bd327af9 // indirect
-	google.golang.org/protobuf v1.26.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 )
